@@ -24,8 +24,8 @@
 ## 🚀 About Me
 
 - 🎓 <b>Education:</b> 3rd Year B.Tech Student
-- 💼 <b>Focus:</b> Full Stack Web, Cloud, Open Source, AI, Competitive Programming
-- 🌱 <b>Currently:</b> Building robust web apps, mastering backend & cloud, open-source contributor
+- 💼 <b>Focus:</b> Full Stack Web, Open Source, AI, Competitive Programming
+- 🌱 <b>Currently:</b> Building highlight worthy projects, mastering DSA, open-source contributor
 - 🏅 <b>Strengths:</b> Problem Solving, Fast Learner, Teamwork, Clean Code
 
 ---
@@ -37,8 +37,8 @@
     <td valign="top" width="50%">
       <h4>Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python" height="32"/>
-        <img src="https://skillicons.dev/icons?i=html,css" height="32"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="32"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js" height="32"/>
       </p>
       <h4>Databases</h4>
       <p>
@@ -50,20 +50,20 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>Frameworks & Libraries</h4>
+<!--       <h4>Frameworks & Libraries</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,threejs,spring,materialui,figma,postman" height="32"/>
-      </p>
+      </p> -->
       <h4>Tools & Platforms</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,npm" height="32"/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" height="32"/>
       </p>
-      <h4>Other Skills</h4>
+<!--       <h4>Other Skills</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=linux,regex" height="32"/>
+        <img src="https://skillicons.dev/icons?i=linux" height="32"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" title="Bash"/>
         <img src="https://cdn.simpleicons.org/figma/0AC97F/white" height="32" title="Figma"/>
-      </p>
+      </p> -->
     </td>
   </tr>
 </table>
@@ -73,17 +73,17 @@
 ## 🏆 Coding Profiles
 
 <div align="center">
-  <a href="https://www.codechef.com/users/kl_2300031496" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00?style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://leetcode.com/u/himanshu8544/" target="_blank">
+  <a href="https://leetcode.com/u/klu2300031210/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/h2300031496" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
+  </a>
+  <a href="https://www.codechef.com/users/klu2300031210" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00?style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/h2300031210" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
 </div>
 
