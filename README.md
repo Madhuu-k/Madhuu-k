@@ -1,16 +1,165 @@
-## Hi there 👋
+<!--
+  Professional GitHub Profile README for Madhuu-k
+  - No banner or unnecessary animations.
+  - Premium, modern icons (Shields.io, skillicons.dev, SVGs).
+  - Clean, dark theme with professional arrangement.
+  - Responsive, readable, and focused on your strengths and branding.
+  - All sections are actionable for recruiters & collaborators.
+-->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👋+Hello%2C+I'm+Madhu;Full+Stack+Developer;Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <b>3rd Year B.Tech Student</b> &nbsp;|&nbsp; <b>Software Engineer</b> &nbsp;|&nbsp; <b>India</b>
+</p>
+<p align="center">
+  🚀 Passionate about building impactful web & app experiences.<br/>
+  💡 B.Tech, India, 2027.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 <b>Education:</b> 3rd Year B.Tech Student
+- 💼 <b>Focus:</b> Full Stack Web, Cloud, Open Source, AI, Competitive Programming
+- 🌱 <b>Currently:</b> Building robust web apps, mastering backend & cloud, open-source contributor
+- 🏅 <b>Strengths:</b> Problem Solving, Fast Learner, Teamwork, Clean Code
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python" height="32"/>
+        <img src="https://skillicons.dev/icons?i=html,css" height="32"/>
+      </p>
+      <h4>Databases</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,dynamodb" height="32"/>
+      </p>
+      <h4>Cloud & DevOps</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws,azure,netlify,vercel,heroku,render,docker,linux" height="32"/>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,threejs,spring,materialui,figma,postman" height="32"/>
+      </p>
+      <h4>Tools & Platforms</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,npm" height="32"/>
+      </p>
+      <h4>Other Skills</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=linux,regex" height="32"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" title="Bash"/>
+        <img src="https://cdn.simpleicons.org/figma/0AC97F/white" height="32" title="Figma"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+  <a href="https://www.codechef.com/users/kl_2300031496" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00?style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://leetcode.com/u/himanshu8544/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/h2300031496" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
+  </a>
+</div>
+
+---
+
+## 🌐 Portfolio & Links
+
+<div align="center">
+
+<a href="https://madhuu-k.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/madhuu-k" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://instagram.com/___himanshu.02" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://wa.me/918544171582" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://t.me/Himanshu31496" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhuu-k&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Madhuu-k&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuu-k&theme=tokyonight&hide_border=false&layout=compact" height="170"/>
+</div>
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madhuu-k&theme=juicyfresh" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madhuu-k" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/___himanshu.02" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/918544171582" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://t.me/Himanshu31496" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhuu-k&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Madhuu-k activity graph" />
+</p>
 
 <!--
-**Madhuu-k/Madhuu-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - All icons use skillicons.dev or direct SVG/CDN for a premium look.
+  - No banner/animation, just clean, dark, modern, and professional.
+  - Responsive for all devices and dark mode–friendly.
+  - Replace placeholder links (portfolio, email, etc.) with your actual details.
 -->
