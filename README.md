@@ -40,9 +40,9 @@
       </p>
       <h4>Databases</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,dynamodb" height="32"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="32"/>
       </p>
-      <h4>Cloud & DevOps</h4>
+      <h4>Cloud and DevOps</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=aws,azure,netlify,vercel,heroku,render,docker,linux" height="32"/>
       </p>
