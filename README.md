@@ -44,7 +44,7 @@
       </p>
       <h4>Cloud and DevOps</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=aws,azure,netlify,vercel,heroku,render,docker,linux" height="32"/>
+        <img src="https://skillicons.dev/icons?i=aws,docker,linux" height="32"/>
       </p>
     </td>
     <td valign="top" width="50%">
@@ -64,7 +64,7 @@
   <a href="https://leetcode.com/u/klu2300031210/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/user_dm4ubxhqh8u" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/madhusudtxfu/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
   </a>
   <a href="https://www.codechef.com/users/klu2300031210" target="_blank">
@@ -96,7 +96,7 @@
 <a href="https://wa.me/917981002778" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-<a href="https://t.me/Himanshu31496" target="_blank">
+<a href="https://t.me/madhudsudhan" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
@@ -134,7 +134,7 @@
   <a href="https://wa.me/917981002778" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://t.me/Himanshu31496" target="_blank">
+  <a href="https://t.me/madhudsudhan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
