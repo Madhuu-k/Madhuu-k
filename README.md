@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<a href="https://madhuu-k.github.io/" target="_blank">
+<a href="https://madhu-sudhan-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/madhuu-k" target="_blank">
