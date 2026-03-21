@@ -13,7 +13,7 @@
   <b>3rd Year B.Tech Student</b> &nbsp;|&nbsp; <b>Software Engineer</b> &nbsp;|&nbsp; <b>India</b>
 </p>
 <p align="center">
-  🚀 Passionate about building impactful web & app experiences.<br/>
+  🚀 Passionate about building impactful ML Systems.<br/>
   💡 B.Tech, India, 2027.
 </p>
 
