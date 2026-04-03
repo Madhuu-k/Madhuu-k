@@ -1,6 +1,10 @@
 <!--
   Professional GitHub Profile README for Madhuu-k
-  - Clean, modern, and recruiter-friendly.
+  - Clean, modern, and recruiter-friendly.  
+
+
+
+  
   - Premium icons from Shields.io & skillicons.dev.
   - Dark theme, responsive & no clutter.
 -->
